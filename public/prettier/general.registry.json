@@ -1,0 +1,9 @@
+{
+  "name": "General Prettier",
+  "description": "Prettier configuration for general projects",
+  "userPrompt": false,
+  "downloadedPath": "./",
+  "downloadedFileName": ".prettierrc",
+  "devDependencies": ["prettier@3.5.3"],
+  "contentPaths": ["./general.json"]
+}
