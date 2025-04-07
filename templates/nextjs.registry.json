@@ -1,5 +1,5 @@
 {
   "name": "NextJS",
   "description": "NextJS Project",
-  "snippets": ["public/eslint/nextjs.registry.json"]
+  "snippets": ["../eslint/nextjs.registry.json"]
 }

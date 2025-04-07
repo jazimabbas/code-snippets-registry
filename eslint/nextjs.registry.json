@@ -20,5 +20,5 @@
     "prettier@3.5.3"
   ],
   "contentPaths": ["./nextjs.mjs"],
-  "dependsOn": ["public/prettier/general.registry.json"]
+  "dependsOn": ["../prettier/general.registry.json"]
 }
