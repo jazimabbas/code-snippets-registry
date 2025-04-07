@@ -1,9 +1,3 @@
 {
-  "templates": [
-    {
-      "name": "NextJS",
-      "description": "NextJS Project",
-      "use": ["public/eslint/nextjs.registry.json"]
-    }
-  ]
+  "templates": ["./templates/nextjs.registry.json"]
 }
